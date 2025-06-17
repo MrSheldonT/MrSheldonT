@@ -1,1 +1,48 @@
-Hello! :D
+
+<h1 align="center"><code>$ whoami</code></h1>
+<p align="center">
+  <code>Ingeniero de Software | Backend Dev | Linux enjoyer | CTF player </code><br>
+  Apasionado por la programación backend, la lógica de sistemas y la ciberseguridad ofensiva.<br>
+  Me interesa entender <b>cómo, cuándo y por qué</b> funcionan las cosas, paso a paso.
+</p>
+
+## Sobre mí
+
+Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gusta el desarrollo backend, la búsqueda de soluciones eficientes en rendimiento y la exploración del mundo del pentesting y los CTFs. También disfruto trabajar en proyectos donde se conectan dispositivos inteligentes con software.
+## Intereses
+
+- Desarrollo backend con Python (Flask, MySQL, SQLAlchemy)
+- Integración con hardware (BLE, sensores, comunicación remota)
+- Algoritmos y estructuras de datos avanzadas
+- Ciberseguridad ofensiva (CTFs, reversing, privilege escalation)
+
+## 💻 Lenguajes y herramientas
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Ghidra](https://img.shields.io/badge/Ghidra-E60000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-343434?style=for-the-badge&logoColor=white)
+
+> [!NOTE]
+> Actualmente aprendiendo:</code> HTML, CSS y JavaScript
+
+
+## Contacto
+
+📧 [adrian_herrera_jeronimo@outlook.com](mailto:adrian_herrera_jeronimo@outlook.com)  
+
