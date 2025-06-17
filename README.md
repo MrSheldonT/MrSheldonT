@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <code>Ingeniero de Software | Backend Dev | Linux enjoyer | CTF player </code><br>
+  <code> Software Engineer | Backend Dev | Linux enjoyer | CTF player </code><br>
   Apasionado por la programación backend, la lógica de sistemas y la ciberseguridad ofensiva.<br>
   Me interesa entender <b>cómo, cuándo y por qué</b> funcionan las cosas, paso a paso.
 </p>
