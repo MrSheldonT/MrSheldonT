@@ -1,5 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2500&pause=1500&color=F7F7F7&center=true&vCenter=true&width=500&height=40&lines=%24+whoami;Adri%C3%A1n+Herrera+Jer%C3%B3nimo" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center"><code>$ whoami</code></h1>
+
+
 <p align="center">
   <code>Ingeniero de Software | Backend Dev | Linux enjoyer | CTF player </code><br>
   Apasionado por la programación backend, la lógica de sistemas y la ciberseguridad ofensiva.<br>
