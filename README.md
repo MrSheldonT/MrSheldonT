@@ -8,8 +8,6 @@
 
 <p align="center">
   <code> Software Engineer | Backend Dev | Linux enjoyer | CTF player </code><br>
-  Apasionado por la programación backend, la lógica de sistemas y la ciberseguridad ofensiva.<br>
-  Me interesa entender <b>cómo, cuándo y por qué</b> funcionan las cosas, paso a paso.
 </p>
 
 ## Sobre mí
@@ -17,7 +15,7 @@
 Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gusta el desarrollo backend, la búsqueda de soluciones eficientes en rendimiento y la exploración del mundo del pentesting y los CTFs. También disfruto trabajar en proyectos donde se conectan dispositivos inteligentes con software.
 ## Intereses
 
-- Desarrollo backend con Python (Flask, MySQL, SQLAlchemy)
+- Desarrollo backend con Python (FastAPI, MySQL, SQLAlchemy)
 - Algoritmos y estructuras de datos
 - Ciberseguridad ofensiva (CTFs, privilege escalation)
 
@@ -40,9 +38,6 @@ Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-> [!NOTE]
-> Actualmente aprendiendo:</code> HTML, CSS y JavaScript
 
 
 ## Contacto
