@@ -18,9 +18,8 @@ Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gu
 ## Intereses
 
 - Desarrollo backend con Python (Flask, MySQL, SQLAlchemy)
-- Integración con hardware (BLE, sensores, comunicación remota)
-- Algoritmos y estructuras de datos avanzadas
-- Ciberseguridad ofensiva (CTFs, reversing, privilege escalation)
+- Algoritmos y estructuras de datos
+- Ciberseguridad ofensiva (CTFs, privilege escalation)
 
 ## 💻 Lenguajes y herramientas
 
@@ -30,7 +29,8 @@ Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gu
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,9 +40,6 @@ Actualmente estudio Ingeniería de Software en la Universidad Veracruzana, me gu
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-![Ghidra](https://img.shields.io/badge/Ghidra-E60000?style=for-the-badge&logo=ghidra&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-343434?style=for-the-badge&logoColor=white)
 
 > [!NOTE]
 > Actualmente aprendiendo:</code> HTML, CSS y JavaScript
